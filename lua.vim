@@ -3404,7 +3404,7 @@ if version >= 508 || !exists("did_lua_syntax_inits")
   HiLink luaFunc		Identifier
   HiLink luaWowapi		Identifier
   HiLink luaWoweven		SpecialChar
-  HiLink luaWowidg		SpecialChar
+  HiLink luaWowidg		Identifier
 
   delcommand HiLink
 endif
