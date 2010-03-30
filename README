@@ -1,0 +1,2 @@
+copy 'lua.vim' into '$VIMRUNTIME$/vimfiles/Syntax'
+
