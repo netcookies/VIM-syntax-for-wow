@@ -1664,8 +1664,6 @@ syn keyword luaWowapi RegisterCVar
 syn keyword luaWowapi RegisterForSave
 syn keyword luaWowapi RegisterForSavePerCharacter
 syn keyword luaWowapi RegisterStaticConstants
-syn keyword luaWowapi RegisterAllEvents
-syn keyword luaWowapi RegisterEvent
 syn keyword luaWowapi RejectProposal
 syn keyword luaWowapi ReloadUI
 syn keyword luaWowapi RemoveChatWindowChannel
@@ -3000,6 +2998,8 @@ syn keyword luaWowidg Play
 syn keyword luaWowidg Raise
 syn keyword luaWowidg RefreshUnit
 syn keyword luaWowidg RegisterForClicks
+syn keyword luaWowapi RegisterAllEvents
+syn keyword luaWowapi RegisterEvent
 syn keyword luaWowidg RegisterForDrag
 syn keyword luaWowidg ReplaceIconTexture
 syn keyword luaWowidg Save
